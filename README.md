@@ -5,8 +5,11 @@ Sobre o Projeto: É um website responsivo feito para venda de produto
 
 Screenshot
 
-<img width="804" height="940" alt="Img-pokedex" src="https://github.com/user-attachments/assets/2f62b0b5-d75d-4208-b10f-bfe086a6498e" /> <img width="580" alt="Info-poke" src="https://github.com/user-attachments/assets/f6056427-eb38-46cb-ba35-119d67eb4ed7" />
->
+<img width="1821" height="808" alt="Apple watch" src="https://github.com/user-attachments/assets/c0752ae8-c0ab-4fd7-86e8-5a0d484af07a" />
+
+<img width="1262" height="861" alt="Vision pro" src="https://github.com/user-attachments/assets/da93ced3-98ac-46b6-8568-dd1094543e8d" />
+
+
 
 🔨 Funcionalidades:
 - Compra de produtos
